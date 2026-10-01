@@ -1,4 +1,4 @@
-#Course container for a Software Project Managment (1151055) 
+# Course container for a Software Project Management (1151055) 
 
 
 
